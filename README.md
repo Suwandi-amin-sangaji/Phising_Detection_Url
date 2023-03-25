@@ -1,1 +1,3 @@
 # Phishing URL Detection 
+  Phishing URL detection adalah proses mengidentifikasi tautan atau URL yang mencurigakan atau berpotensi berbahaya yang dikirimkan melalui email, pesan teks, atau media sosial dengan tujuan untuk memperoleh informasi pribadi atau keuangan korban. Tujuan dari deteksi ini adalah untuk mencegah korban dari kehilangan informasi pribadi dan keuangan mereka kepada para penipu.
+Dalam mendeteksi URL phishing , Analisis tautan melibatkan memeriksa tautan untuk melihat apakah mereka menunjuk ke situs web palsu atau mencurigakan, Ini, Aplikasi Ini Menggukan Algoritma KNN (K-Nearest Neighbors) Classifier . 
